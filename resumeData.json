@@ -1,58 +1,67 @@
 {
   "main": {
-    "name":"Giacomo Antonioli",
-    "occupation":"Student and Junior Developer",
-    "description":"I'm ambituos, hard working and if I fix a goal I will do everything it takes to get it done.",
-    "image":"profilepic.jpeg",
-    "bio":"Sometimes I wish I was a cloud... Just floating along, going wherever the breeze takes me.",
-    "contactmessage":"For any info or project proposal, here are my contacts.",
-    "email": "giaco.antonioli@gmail.com",
-    "phone": "+39 334 8262 515",
+    "name":"Tim Baker",
+    "occupation":"(Your Occupation Here)",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
     "address":{
-      //"street":"(Your Street)",
-      "city":"Ferrara",
-      "state":"Italy"
-      //"zip": "(Your Zip/Postal Code)"
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
     },
-    "website": "https://giacomo-antonioli.github.io/landingpage",
+    "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"facebook",
-        "url":"https://www.facebook.com/giacomo.antonioli.5/",
+        "url":"http://facebook.com/tim.baker.906",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"https://twitter.com/GiacomoAntoni",
+        "url":"http://twitter.com",
         "className":"fa fa-twitter"
       },
       {
+        "name":"google-plus",
+        "url":"http://googleplus.com/tbakerx",
+        "className":"fa fa-google-plus"
+      },
+      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/giacomo-antonioli-66452414b/",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"https://www.instagram.com/giacomoantonioli/",
+        "url":"http://instagram.com/tbaker_x",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/Giacomo-Antonioli",
+        "url":"http://github.com/tbakerx",
         "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
       }
-     
     ]
   },
   "resume":{
-    "skillmessage":"This is my educational background.",
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University of Pisa",
-        "degree":"M.Sc. in Computer Science - AI",
-        "graduated":"Currently ongoing",
-        
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       },
       {
         "school":"School #1 Maybe College?",
